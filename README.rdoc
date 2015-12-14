@@ -1,6 +1,8 @@
 == README
 
-THis is the repository for the first alpha-blog app
+This is the repository for the first alpha-blog app
+
 
 Please feel free to use a different markup language if you do not plan to run
+
 <tt>rake doc:app</tt>.
